@@ -43,3 +43,16 @@
    5.1 Pre-training vs. fine-tuning vs. reinforcement learning
    
    5.2 Fine-tuning pipeline
+
+### 6. Current developments in language-oriented AI
+   6.1 Multimodal large language models
+   
+   6.2 Large reasoning models
+
+   6.3 Large action models
+
+   6.4. Small language models
+
+   6.5 Retrieval-augmented generation
+
+   6.6 Knowledge graphs
