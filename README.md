@@ -1,5 +1,5 @@
 # Artificial Intelligence for Specialised Communication – Technical Curriculum
-<img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true">
+<img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="70%" height="70%" align=left>
 
 ## The Curriculum
 
