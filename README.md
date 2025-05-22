@@ -1,5 +1,5 @@
 # Artificial Intelligence for Specialised Communication – Technical Curriculum
-<img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="25%" height="25%">
+<img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="20%" height="20%">
 
 ## The Curriculum
 
@@ -14,7 +14,7 @@
    
    1.5 Image embeddings
 
-### 2. Technical Foundations of Neural networks
+### 2. Technical Foundations of neural networks
    2.1 Basic building blocks and information flow through a network (basic Python implementation)
    
    2.2 Forward pass – Processing input information to produce an output
