@@ -14,7 +14,7 @@
    
    1.5 Image embeddings
 
-### 2. Technical Foundations of neural networks
+### 2. Technical foundations of neural networks
    2.1 Basic building blocks and information flow through a network (basic Python implementation)
    
    2.2 Forward pass – Processing input information to produce an output
