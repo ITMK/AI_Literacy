@@ -22,6 +22,8 @@
    2.3 Backward pass – Training a neural network
 
 ### 3. Tokenisation – Reducing the vocabulary size of neural networks
+In this [Colab notebook on tokenisation](https://colab.research.google.com/drive/190K0BZZf9ChCNFd7ADbQ5JL24KWPkLU0?usp=sharing), we cover the following topics:
+
    3.1 Word-based tokenisation
    
    3.2 Character-based tokenisation
