@@ -1,4 +1,4 @@
-# Artificial Intelligence for Translation, Interpreting and Specialised Communication – Technical Curriculum
+# Artificial Intelligence for Translation, Interpreting and Specialised Communication – Technical Curriculum (Work in Progress)
 <img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="20%" height="20%">
 
 ## The Curriculum
