@@ -14,8 +14,10 @@
    
    1.5 Image embeddings
 
-### 2. Technical foundations of neural networks
-   2.1 Basic building blocks and information flow through a network (basic Python implementation)
+### 2. Technical foundations of neural networks – Building blocks, forward and backward pass
+In this [Colab notebook on the technical foundations of neural networks](https://colab.research.google.com/drive/1AaVPBOTa3K8WQ6USrqx1ZR556RpF8-RC?usp=sharing), we cover the following topics:
+
+   2.1 Basic building blocks and information flow through a network
    
    2.2 Forward pass – Processing input information to produce an output
    
