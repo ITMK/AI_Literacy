@@ -60,3 +60,5 @@ In this [Colab notebook on tokenisation](https://colab.research.google.com/drive
    6.5 Retrieval-augmented generation
 
    6.6 Knowledge graphs
+
+### Annex – A glossary of language-oriented AI
