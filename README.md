@@ -6,61 +6,63 @@
 ### 1. Vector embeddings – Representing linguistic data (and other modalities) as numbers
 In this [Colab notebook on vector embeddings](https://colab.research.google.com/drive/1-R3ftZceMORC-fv9J6mecjrg-efLELz6?usp=sharing), we cover the following topics:
 
-   1.1 Word embeddings
+   - Word embeddings
    
-   1.2 Sentence embeddings
+   - Sentence embeddings
    
-   1.3 Decontextualised vs. contextualised embeddings
+   - Decontextualised vs. contextualised embeddings
    
-   1.4 Audio embeddings
+   - Audio embeddings
    
-   1.5 Image embeddings
+   - Image embeddings
 
 ### 2. Technical foundations of neural networks – Building blocks, forward and backward pass
 In this [Colab notebook on the technical foundations of neural networks](https://colab.research.google.com/drive/1AaVPBOTa3K8WQ6USrqx1ZR556RpF8-RC?usp=sharing), we cover the following topics:
 
-   2.1 Basic building blocks and information flow through a network
+   - Basic building blocks and information flow through a network
    
-   2.2 Forward pass – Processing input information to produce an output
+   - Forward pass – Processing input information to produce an output
    
-   2.3 Backward pass – Training a neural network
+   - Backward pass – Training a neural network
 
 ### 3. Tokenisation – Reducing the vocabulary size of neural networks
 In this [Colab notebook on tokenisation](https://colab.research.google.com/drive/190K0BZZf9ChCNFd7ADbQ5JL24KWPkLU0?usp=sharing), we cover the following topics:
 
-   3.1 Word-based tokenisation
+   - Word-based tokenisation
    
-   3.2 Character-based tokenisation
+   - Character-based tokenisation
    
-   3.3 Subword-based tokenisation
+   - Subword-based tokenisation
+
+   - From subword tokenisation to embeddings
 
 ### 4. Transformer neural networks
-   4.1 Encoder-Decoder (sequence2sequence) models (e.g. BART)
+   - Encoder-Decoder (sequence2sequence) models (e.g. BART)
    
-   4.2 Encoder-only models (e.g. BERT)
+   - Encoder-only models (e.g. BERT)
    
-   4.3 Decoder-only models (e.g. GPT)
+   - Decoder-only models (e.g. GPT)
    
-   4.4 Self-Attention
+   - Self-Attention
    
-   4.5 Output generation (Softmax and Beam Search)
+   - Output generation (Softmax and Beam Search)
 
 ### 5. Fine-tuning a Transformer neural network for translation
-   5.1 Pre-training vs. fine-tuning vs. reinforcement learning
+   - Pre-training vs. fine-tuning vs. reinforcement learning
    
-   5.2 Fine-tuning pipeline
+   - Fine-tuning pipeline
 
 ### 6. Current developments in language-oriented AI
-   6.1 Multimodal large language models
+   - Multimodal large language models
    
-   6.2 Large reasoning models
+   - Large reasoning models
 
-   6.3 Large action models
+   - Large action models
 
-   6.4. Small language models
+   - Small language models
 
-   6.5 Retrieval-augmented generation
+   - Retrieval-augmented generation
 
-   6.6 Knowledge graphs
+   - Knowledge graphs
 
 ### Annex – A glossary of language-oriented AI
