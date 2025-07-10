@@ -4,7 +4,7 @@
 ## The Curriculum
 
 ### 1. Vector embeddings – Representing linguistic data (and other modalities) as numbers
-In this [Colab notebook on vector embeddings](https://colab.research.google.com/drive/1-R3ftZceMORC-fv9J6mecjrg-efLELz6?usp=sharing), we cover the following topics:
+In this <a href="https://colab.research.google.com/drive/1-R3ftZceMORC-fv9J6mecjrg-efLELz6?usp=sharing" target="_blank" rel="noopener noreferrer">Colab notebook on vector embeddings</a> [Colab notebook on vector embeddings](https://colab.research.google.com/drive/1-R3ftZceMORC-fv9J6mecjrg-efLELz6?usp=sharing), we cover the following topics:
 
    - Word embeddings
    
