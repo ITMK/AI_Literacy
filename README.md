@@ -11,6 +11,8 @@ In this [Colab notebook on vector embeddings](https://colab.research.google.com/
    - Sentence embeddings
    
    - Decontextualised vs. contextualised embeddings
+
+   - Multilingual embeddings
    
    - Audio embeddings
    
