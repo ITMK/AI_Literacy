@@ -8,9 +8,9 @@ In this [Colab notebook on vector embeddings](https://colab.research.google.com/
 
    - Word embeddings
    
-   - Sentence embeddings
-   
    - Decontextualised vs. contextualised embeddings
+   
+   - Sentence embeddings
 
    - Multilingual embeddings
    
