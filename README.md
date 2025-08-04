@@ -2,6 +2,7 @@
 <img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true">
 
 [Author: Ralph Krüger](https://www.th-koeln.de/en/person/ralph.krueger/)
+
 [License: CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## The Curriculum
