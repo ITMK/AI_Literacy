@@ -1,4 +1,4 @@
-# Artificial Intelligence for Translation, Interpreting and Specialised Communication – Technical Curriculum (Work in Progress)
+# Artificial Intelligence for Translation, Interpreting and Specialised Communication – Technical Curriculum
 <img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true">
 
 Author: [Ralph Krüger](https://www.th-koeln.de/en/person/ralph.krueger/)
@@ -45,7 +45,7 @@ In this [Colab notebook on tokenisation](https://colab.research.google.com/drive
 
    - From subword tokenisation to embeddings
 
-### 4. Transformer neural networks
+### 4. Transformer neural networks (work in progress)
 In this [Colab notebook on transformer neural networks](https://colab.research.google.com/drive/1dN6wA7li0Zai_AyPFS4igMS-NvTZPkAS?usp=sharing), we cover the following topics:
    
    - Encoder-Decoder (sequence2sequence) models (e.g. BART)
@@ -54,16 +54,14 @@ In this [Colab notebook on transformer neural networks](https://colab.research.g
    
    - Decoder-only models (e.g. GPT)
    
-   - Self-Attention
-   
-   - Output generation (Softmax and Beam Search)
+   - The inner workings of the transformer (self-attention, output generation, etc.)
 
-### 5. Fine-tuning a Transformer neural network for translation
+### 5. Fine-tuning a Transformer neural network for translation (coming soon)
    - Pre-training vs. fine-tuning vs. reinforcement learning
    
    - Fine-tuning pipeline
 
-### 6. Current developments in language-oriented AI
+### 6. Current developments in language-oriented AI (coming soon)
    - Multimodal large language models
    
    - Large reasoning models
@@ -76,4 +74,4 @@ In this [Colab notebook on transformer neural networks](https://colab.research.g
 
    - Knowledge graphs
 
-### Annex – A glossary of language-oriented AI
+### Annex – A glossary of language-oriented AI (coming soon)
