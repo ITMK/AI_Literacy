@@ -70,8 +70,6 @@ In this [Colab notebook on transformer neural networks](https://colab.research.g
 
    - Small language models
 
-   - Retrieval-augmented generation
-
-   - Knowledge graphs
+   - Knowledge-enhanced LLMs (RAG + Knowledge Graphs)
 
 ### Annex – A glossary of language-oriented AI (coming soon)
