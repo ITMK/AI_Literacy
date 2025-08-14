@@ -56,10 +56,16 @@ In this [Colab notebook on transformer neural networks](https://colab.research.g
    
    - The inner workings of the transformer (self-attention, output generation, etc.)
 
-### 5. Fine-tuning a Transformer neural network for translation (coming soon)
-   - Pre-training vs. fine-tuning vs. reinforcement learning
+### 5. Training and adaptation strategies for language models (coming soon)
+   - Pre-training
    
-   - Fine-tuning pipeline
+   - Fine-tuning
+   
+   - Reinforcement learning
+   
+   - In-context learning
+
+   -  Hands-on: Fine-tuning a Transformer language model for translation
 
 ### 6. Current developments in language-oriented AI (coming soon)
    - Multimodal large language models
