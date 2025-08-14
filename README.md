@@ -80,4 +80,5 @@ In this [Colab notebook on current developments in language-oriented AI](https:/
 
    - Knowledge-enhanced LLMs (RAG + Knowledge Graphs)
 
-### Annex – A glossary of language-oriented AI (coming soon)
+### Annex – A glossary of language-oriented AI (work in progress)
+This [glossary](https://th-koeln-1.gitbook.io/th-koeln-docs) explains key terms in the field of language-oriented AI that are mentioned at various points throughout this curriculum. 
