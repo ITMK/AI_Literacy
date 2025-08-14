@@ -69,13 +69,14 @@ In this [Colab notebook on traning and adaptation strategies for language models
    -  Hands-on session: Fine-tuning a transformer language model for translation
 
 ### 6. Current developments in language-oriented AI (coming soon)
-   - Multimodal large language models
+In this [Colab notebook on current developments in language-oriented AI](https://colab.research.google.com/drive/1TUbbKLIPqmdN_xUQfoyb5ujEgxR_8jVp?usp=sharing), we cover the following topics:
+   - Multimodal large language models (MM-LLMs)
    
-   - Large reasoning models
+   - Large reasoning models (LRMs)
 
-   - Large action models
+   - Large action models (LAMs)
 
-   - Small language models
+   - Small language models (SLMs)
 
    - Knowledge-enhanced LLMs (RAG + Knowledge Graphs)
 
