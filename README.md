@@ -1,5 +1,5 @@
 # Artificial Intelligence for Translation, Interpreting and Specialised Communication – Technical Curriculum
-<img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="30%">
+<img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="25%">
 
 Author: [Ralph Krüger](https://www.th-koeln.de/en/person/ralph.krueger/)
 
