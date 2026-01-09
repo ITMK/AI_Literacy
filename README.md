@@ -47,7 +47,7 @@ In this [Colab notebook on tokenisation](https://colab.research.google.com/drive
 
    - From subword tokenisation to embeddings
 
-### 4. Transformer neural networks (work in progress)
+### 4. Transformer neural networks
 In this [Colab notebook on transformer neural networks](https://colab.research.google.com/drive/1dN6wA7li0Zai_AyPFS4igMS-NvTZPkAS?usp=sharing), we cover the following topics:
    
    - Encoder-Decoder (sequence2sequence) models (e.g. BART)
