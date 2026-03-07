@@ -1,4 +1,4 @@
-# Artificial Intelligence for Translation, Interpreting and Specialised Communication – Technical Curriculum
+# Artificial Intelligence for Translation and Specialised Communication – Technical Curriculum
 <img src = "https://github.com/ITMK/AI_Literacy/blob/main/images/GenAI_ITMK.jpg?raw=true" width="25%">
 
 Author: [Ralph Krüger](https://www.th-koeln.de/en/person/ralph.krueger/)
@@ -8,9 +8,9 @@ License: [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)](https://creat
 ## The Curriculum
 
 ### Prelude – Python for beginners
--    This [Colab notebook](https://colab.research.google.com/drive/10G_zfSUssTVqLTkWl5NpwJvQS3Mbam_B?usp=sharing) written as part of the [LT-LiDER project](http://lt-lider.eu/) provides a concise introduction to Python             programming for novices.
+-    This [Colab notebook](https://colab.research.google.com/drive/10G_zfSUssTVqLTkWl5NpwJvQS3Mbam_B?usp=sharing) written as part of the [LT-LiDER project](http://lt-lider.eu/) provides a concise introduction to Python programming for novices.
 
--    The paper [Bridging the Digital Divide – Making Python and the Python Ecosystem Accessible to Translators](http://dx.doi.org/10.13140/RG.2.2.13246.40006) by Krüger/Álvarez Vidal/Hackenbuchner (forthcoming) provides an         introduction to Colab notebooks as online Python programming environments and discusses strategies for using large language models as coding assistants to programming novices. The paper was also written as part of the         LT-LiDER project.
+-    The paper [Bridging the Digital Divide – Making Python and the Python Ecosystem Accessible to Translators](http://dx.doi.org/10.13140/RG.2.2.13246.40006) by Krüger/Álvarez Vidal/Hackenbuchner (forthcoming) provides an introduction to Colab notebooks as online Python programming environments and discusses strategies for using large language models as coding assistants to programming novices. The paper was also written as part of the LT-LiDER project.
 
 -    [Artificial Intelligence Literacy for the Language and Translation Industry - Conceptual Foundations, Operationalisation, Acquisition, Measurement](https://doi.org/10.13140/RG.2.2.31720.99843)
 
