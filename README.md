@@ -14,7 +14,10 @@ License: [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)](https://creat
 -    The paper [Bridging the Digital Divide – Making Python and the Python Ecosystem Accessible to Translators](http://dx.doi.org/10.13140/RG.2.2.13246.40006) by Krüger/Álvarez Vidal/Hackenbuchner (forthcoming) provides an introduction to Colab notebooks as online Python programming environments and discusses strategies for using large language models as coding assistants to programming novices. The paper was also written as part of the LT-LiDER project.
 
 #### Conceptual framework
--    The paper [Artificial Intelligence Literacy for the Language and Translation Industry - Conceptual Foundations, Operationalisation, Acquisition, Measurement](https://doi.org/10.13140/RG.2.2.31720.99843) by Krüger (forthcoming) provides a high-level framework in terms of domain-specific artificial intelligence literacy for translation (which is also applicable to the adjacent field of specialised communication). The present curriculum is intended to foster primarily *technical* AI literacy.
+-    The paper [Artificial Intelligence Literacy for the Language and Translation Industry - Conceptual Foundations, Operationalisation, Acquisition, Measurement](https://doi.org/10.13140/RG.2.2.31720.99843) by Krüger (forthcoming, also written as part of LT-LiDER) provides a high-level framework in terms of domain-specific artificial intelligence literacy for translation (which is also applicable to the adjacent field of specialised communication). The present curriculum is intended to foster primarily *technical* AI literacy.
+
+#### Didactic effectiveness of the curriculum
+-    The paper [A Technical Curriculum on Language-Oriented Artificial Intelligence in Translation and Specialised Communication](https://doi.org/10.48550/arXiv.2602.12251) by Krüger (submitted for publication) reports on a pre- and post-test study intended to measure the didactic effectiveness of the curriculum in an MA course on the foundations of artificial intelligence at TH Köln's Institute of Translation and Multilingual Communication.  
 
 ### 1. Vector embeddings – Representing linguistic data (and other modalities) as numbers
 In this [Colab notebook on vector embeddings](https://colab.research.google.com/drive/1-R3ftZceMORC-fv9J6mecjrg-efLELz6?usp=sharing), we cover the following topics:
