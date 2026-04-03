@@ -61,7 +61,7 @@ In this [Colab notebook on transformer neural networks](https://colab.research.g
    
    - The inner workings of the transformer (self-attention, output generation, etc.)
 
-### 5. Training and adaptation strategies for language models (coming soon)
+### 5. Training and adaptation strategies for language models (work in progress)
 In this [Colab notebook on traning and adaptation strategies for language models](https://colab.research.google.com/drive/1NCnI54IHJNwcpSovfsRC8IMGkEPUIFQs?usp=sharing), we cover the following topics: 
    - Pre-training
    
